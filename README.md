@@ -14,7 +14,7 @@
 
 [bootstrap]: https://getbootstrap.com/
 
-[my_github]: https://github.com/Kalebe614
+[my_github]: https://kalebe614.github.io/
 
 #### <p align="center">This project is a comprehensive user authentication application developed with [Django][django] and utilizing the [django-allauth] library. With this solution, users can register new accounts. The key features include:
 
